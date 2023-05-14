@@ -3,7 +3,7 @@
 
 Hey there👋🏻, introducing you to the Modern Contactless doorbell security system that not only ensures your security but also health safety with much more convenience.
 
-### Video of working prototype: 
+### Video of working prototype: https://drive.google.com/file/d/1xsON2LM_GRcQmCZmgE2IUAxD9q-2tZq_/view?usp=share_link
 
 <img src='./photos/poster.jpg'>
 
@@ -21,6 +21,8 @@ Hey there👋🏻, introducing you to the Modern Contactless doorbell security s
 4. Clone this repo to any directory in Raspberry Pi instance
 5. Run the main.py file (using Thonny - Raspberry Pi's inbuilt Code editor)
 ```
+
+#### Note: You will need to create your own telegram bot and replace the BotToken, ChatID with your own.
 
 ## Contributors
 
