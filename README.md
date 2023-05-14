@@ -1,18 +1,19 @@
-# Design and Fabrication Project
-## Title : IoT Contactless Doorbell security system
+# PDPM IIITDM Jabalpur
+## Design and Fabrication Project
+### Title : IoT Contactless Doorbell security system
 
 Hey there👋🏻, introducing you to the Modern Contactless doorbell security system that not only ensures your security but also health safety with much more convenience.
 
-### Video of working prototype: https://drive.google.com/file/d/1xsON2LM_GRcQmCZmgE2IUAxD9q-2tZq_/view?usp=share_link
-
 <img src='./photos/poster.jpg'>
 
-## Photos of prototype
+#### Video of working prototype: https://drive.google.com/file/d/1xsON2LM_GRcQmCZmgE2IUAxD9q-2tZq_/view?usp=share_link
+
+### Photos of prototype
 
 <img src='./photos/img1.jpg'>
 <img src='./photos/img2.jpg'>
 
-## How to run 
+### How to run 
 
 ```
 1. Run an instance of Raspberry Pi on your Laptop (using puTTY and VNC viewer)
@@ -22,9 +23,9 @@ Hey there👋🏻, introducing you to the Modern Contactless doorbell security s
 5. Run the main.py file (using Thonny - Raspberry Pi's inbuilt Code editor)
 ```
 
-#### Note: You will need to create your own telegram bot and replace the BotToken, ChatID with your own.
+##### Note: You will need to create your own telegram bot and replace the BotToken, ChatID with your own.
 
-## Contributors
+### Contributors
 
 <img src='./photos/group.jpg'>
 
